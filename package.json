@@ -1,0 +1,11 @@
+{
+  "packageManager": "yarn@1.22.19",
+  "name": "mlsc-gallery-page",
+  "version": "0.69",
+  "description": "nothx",
+  "main": "index.js",
+  "repository": "https://github.com/UPSAtwal/gallerypage-clean.git",
+  "author": "upsatwal <ups@atwal.info>",
+  "license": "MIT",
+  "private": false
+}
